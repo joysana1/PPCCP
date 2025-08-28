@@ -44,7 +44,7 @@ Each notebook splits the dataset into **70% training** and **30% testing**.
 ### 2. Synthetic Data Generation
 To generate synthetic data using DP-WGAN:
 - Run `GAN_Training.ipynb`.  
-- This notebook uses the [`private-data-generation`](https://github.com/privacytrustlab/private-data-generation) library to train the GAN under differential privacy.  
+- This notebook uses the [`private-data-generation`](https://github.com/joysana1/PPCCP/tree/main/private-data-generation) library to train the GAN under differential privacy.  
 
 ---
 
