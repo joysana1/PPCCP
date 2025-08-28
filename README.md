@@ -92,9 +92,9 @@ matplotlib, seaborn
 
 If you use this repository in your research, please cite our paper:
 
-@article{YourCitation2025,
+@article{jdk_PPCCP_2025,
   title={Privacy-Preserving Customer Churn Prediction Model in the Context of Telecommunication Industry},
-  author={Sana, Joydeb Kumar and ...},
+  author={Sana, Joydeb Kumar and Rahman,  M Sohel and Rahman, M Saifur},
   year={2025}
 }
 
