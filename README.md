@@ -49,7 +49,7 @@ To generate synthetic data using DP-WGAN:
 ---
 
 ### 3. Model Training and Evaluation
-The `classifiers/` folder contains scripts for training and evaluating different classifiers (e.g., Logistic Regression, Random Forest, XGBoost).  
+The `classifiers/` folder contains scripts for training and evaluating different classifiers (e.g., Logistic Regression, Random Forest, ....).  
 
 Each script:
 1. Loads either real or synthetic data.  
