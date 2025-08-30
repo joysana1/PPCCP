@@ -9,9 +9,9 @@ The framework combines **DP-WGAN** with **adaptive Weight of Evidence (aWOE)** t
 
 ├── data/ # Uploaded datasets (Dataset-2 and Dataset-3)
 ├── classifiers/ # Classifier training, validation, and evaluation scripts
-│ ├── logistic_regression.py
-│ ├── random_forest.py
-│ ├── xgboost.py
+│ ├── GAN_1_70per_training_30_per_testing_classifier_dataset-100000-set0.ipynb
+│ ├── GAN_mWOE_privacy_1_70per_training_30_per_original_testing_data_7043_set0.ipynb
+│ ├── 
 │ └── ...
 ├── GAN_PRE_1_70per_training_30_per_original_testing-dataset-10000.ipynb
 ├── GAN_PRE_1_70per_training_30_per_original_testing_data_5000.ipynb
